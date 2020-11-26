@@ -7,6 +7,7 @@
   line-height: 1.2;
   text-align: center;
   z-index: 1;
+  color: #ffffff;
 }
 
 .cover__subtitle:hover ~ .cover__overlay {
