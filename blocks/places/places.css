@@ -1,9 +1,8 @@
 .places {
-  width: 94%;
-  margin: 0 auto;
   display: flex;
   flex-direction: column;
   padding: 92px 0 0 0;
+  align-items: center;
 }
 
 @media screen and (max-width: 768px) {

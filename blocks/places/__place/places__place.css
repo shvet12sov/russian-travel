@@ -2,7 +2,6 @@
   display: grid;
   grid-template-columns: repeat(2, minmax(min-content, max-content));;
   grid-template-rows: repeat(2, minmax(min-content, max-content));
-  margin: auto;
   max-width: 984px;
   grid-auto-flow: column;
   gap: 48px 32px;

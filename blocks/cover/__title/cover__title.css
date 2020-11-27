@@ -10,11 +10,6 @@
   color: #ffffff;
 }
 
-.cover__title:hover ~ .cover__overlay {
-  transition:  .4s ease-in-out;
-  background-color: rgba(0, 0, 0, .8);
-}
-
 @media screen and (max-width: 768px) {
   .cover__title {
     max-width: 350px;
