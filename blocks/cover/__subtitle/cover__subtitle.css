@@ -7,11 +7,7 @@
   line-height: 1.2;
   text-align: center;
   z-index: 1;
-}
-
-.cover__subtitle:hover ~ .cover__overlay {
-  transition:  .4s ease-in-out;
-  background-color: rgba(0, 0, 0, .8);
+  color: #ffffff;
 }
 
 @media screen and (max-width: 768px) {
