@@ -5,7 +5,6 @@
   font-size: 18px;
   line-height: 1.63;
   margin: 0 0 26px 0;
-
 }
 
 .places__paragraph:last-child {
@@ -24,7 +23,18 @@
 
   .places__paragraph {
     width: 94%;
+  }
+
+}
+
+@media screen and (max-width: 320px) {
+
+  .places__paragraph {
     margin: 0 auto;
+  }
+  .places__paragraph:last-of-type {
+
+    margin: 25px auto 0 auto;
   }
 
 }
