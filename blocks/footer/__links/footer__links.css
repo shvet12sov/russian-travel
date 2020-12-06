@@ -8,25 +8,9 @@
   flex-wrap: wrap;
 }
 
-.footer__links > li {
-  margin-right: 18px;
-}
-
-.footer__links > li:last-of-type {
-  margin-right: 0;
-}
-
 @media screen and (max-width: 425px) {
   .footer__links {
     align-items: flex-start;
     flex-direction: column;
-  }
-
-  .footer__links > li {
-    margin-bottom: 32px;
-  }
-
-  .footer__links > li:last-of-type {
-    margin-bottom: 0;
   }
 }
