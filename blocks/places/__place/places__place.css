@@ -17,7 +17,7 @@
     grid-template-columns: 340px, 352px;
     grid-template-rows: repeat(2, minmax(min-content, max-content));
     gap: 48px 28px;
-    padding-bottom: 73px;git
+    padding-bottom: 73px;
   }
 }
 
