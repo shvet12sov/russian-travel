@@ -7,10 +7,6 @@
 }
 
 @media screen and (max-width: 425px) {
-  .footer__links {
-    align-items: flex-start;
-    flex-direction: column;
-  }
 
   .footer__item {
     margin-bottom: 32px;

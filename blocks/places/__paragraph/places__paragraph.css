@@ -11,13 +11,6 @@
   margin-bottom: 0;
 }
 
-@media screen and (max-width: 1024px) {
-
-  .places__paragraph {
-    font-size: 18px;
-  }
-
-}
 
 @media screen and (max-width: 768px) {
 
